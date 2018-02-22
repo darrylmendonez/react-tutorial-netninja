@@ -1,0 +1,29 @@
+{
+  "name": "react-tutorial-netninja",
+  "version": "1.0.0",
+  "description": "All the course files for the Net Ninja React tutorial playlist on YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrylmendonez/react-tutorial-netninja.git"
+  },
+  "author": "Darryl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrylmendonez/react-tutorial-netninja/issues"
+  },
+  "homepage": "https://github.com/darrylmendonez/react-tutorial-netninja#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
